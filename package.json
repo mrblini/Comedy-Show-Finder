@@ -1,0 +1,20 @@
+{
+  "name": "Comedy-Show-Finder",
+  "version": "1.0.0",
+  "description": "A comedy app that lets users find comedy shows nearby General Idea::: a comedy show finder where you can find an event by searching a location. Once you have your area narrowed in, you can click on an  upcoming performer to  get more curated comedian information!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablodiazt/Comedy-Show-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablodiazt/Comedy-Show-Finder/issues"
+  },
+  "homepage": "https://github.com/pablodiazt/Comedy-Show-Finder#readme"
+}

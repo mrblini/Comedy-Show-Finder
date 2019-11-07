@@ -276,7 +276,7 @@ $('.sidenav').sidenav('methodName', paramName);
 
 // ----------------------------- SLIDESHOW INITIALIZATION
 document.addEventListener('DOMContentLoaded', function () {
-    var elems = document.querySelectorAll('.slider');
+    var elems = document.querySelectorAll('.');
     var instances = M.Slider.init(elems, options);
 });
 
